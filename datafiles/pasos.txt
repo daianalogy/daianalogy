@@ -1,0 +1,4 @@
+1. Entender el problema a resolver.
+2. Hacer investigación(researh) sobre módulos y cualquier herramienta que nos pueda ayudar.\t\n
+3. Planificar, ejecutar un plan de acción para empezar con nuestra solución.
+4. Documentar, escribir todo.

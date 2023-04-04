@@ -5,7 +5,7 @@
 </b>
 </p>
 <p align="center">
-<img src="daianalogy.github/img-src/banner0.png">
+<img src="img-src/banner0.png">
 </p>
 
 <h2>Bienvenidos a mi repositorio de GitHub, aquí encontrarás:</h2>
