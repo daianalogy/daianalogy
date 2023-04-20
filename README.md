@@ -10,7 +10,7 @@
 
 </p>
 
-<h2>Bienvenidos a mi repositorio de GitHub, aquí encontrarás:</h2>
+<h2>Welcome to my GitHub Repo, here you'll find:</h2>
 
 
 <p align="center">
@@ -23,16 +23,28 @@
 
 <img src="https://pbs.twimg.com/media/Fti_tkEXgAcTpsT?format=jpg&name=medium">
 
- </ul>
+
 That's my current setup, yeah i do everythig in those low spec machines. I'll let you down bellow the link to the offical specs of them:
 
-<ol> -Toshiba Satellite A205 2GB RAM CPU Dual Pentium
+<ol>-Toshiba Satellite A205 2GB RAM CPU Dual Pentium
+
 -Mini laptop 2GB RAM Intel Celeron 847 </ol>
 
-I use Linux on a daily basis, it's the s.o i feel more confortable with. I love it.
+I'm a female, i use Linux on a daily basis, it's the s.o i feel more confortable with. I love it.
 I'm using Artix Linux (Runit Ver.) and Xubuntu.
 
 I love automate, mostly of my projects  are about automating few task with Python scripts' and CLI. I'm limited for my hardware to do GUI things for now.
+
+Between my personal projects are:
+
+<b>
+ -AutoTag:</b> <p> Fist Python script i made for solve and issue i had with an entire .mp3 album's metadata. </p>
+
+ <b>
+ -Virtualia:</b> <p> My CLI virtual assistant connected trough Open AI API</p>
+
+ <b>
+ -Automatic Payments:</b> <p> I automate my mothly payments, what a tedious task i had to everyday </p>
 
 My preferred programming language it's Python, but i also minded to do things in C#. I see Python more like for scripts and tools, C# will be for huge projects.
 
