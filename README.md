@@ -44,7 +44,7 @@ Between my personal projects are:
  -Virtualia:</b> <p> My CLI virtual assistant connected trough Open AI API</p>
 
  <b>
- -Automatic Payments:</b> <p> I automate my mothly payments, what a tedious task i had to everyday </p>
+ -Automatic Payments:</b> <p> I automate my mothly payments with Python, what a tedious task i had to do mothly </p>
 
 My preferred programming language it's Python, but i also minded to do things in C#. I see Python more like for scripts and tools, C# will be for huge projects.
 
