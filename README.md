@@ -36,17 +36,13 @@ I'm using Artix Linux (Runit Ver.) and Xubuntu.
 I love automate, mostly of my projects  are about automating few task with Python scripts' and CLI. I'm limited for my hardware to do GUI things for now.
 
 Between my personal projects are:
+ 
+ -[Virtualia](https://github.com/daianalogy/daianalogy/blob/main/ia/ia.py) :</b> <p> My CLI virtual assistant connected trough Open AI using model gpt-turbo-3.5. It's able to talk to you trough a Text-To-Speech library called gTTS. I made this project with my free trial Open AI API Key</p>
 
-<b>
- -AutoTag:</b> <p> Fist Python script i made for solve and issue i had with an entire .mp3 album's metadata. </p>
+ -[GOemail](https://github.com/daianalogy/GOemail) :</b> <p> My first Golang program it purpose is to send emails to various recipients, you can add this go script to crontab in order to make email send automatic.
+ 
+  -[AutoTag](https://github.com/daianalogy/daianalogy/blob/main/scripts/autotag.py):</b> <p> First Python script i made for solve and issue i had with an entire .mp3 album's metadata. </p>
 
- <b>
- -Virtualia:</b> <p> My CLI virtual assistant connected trough Open AI API</p>
-
- <b>
- -Automatic Payments:</b> <p> I automate my mothly payments with Python, what a tedious task i had to do mothly </p>
-
-My preferred programming language it's Python, but i also minded to do things in C#. I see Python more like for scripts and tools, C# will be for huge projects.
 
 I enjoy doing Graphic Design and UX, i've worked with Adobe Ilustrator, Photoshop (before) now i'm using more open source's graphic and vectorizing tools like gimp and inkscape.
  
